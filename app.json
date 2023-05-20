@@ -7,24 +7,24 @@
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
-            "value": "28345030"
+            "value": ""
         },
         "API_HASH": {
             "description": "Your API Hash From my.telegram.org ",
-            "value": "2454254a802b8a4eeb3e8ac2816f3fee"
+            "value": ""
         },
         "WEBHOOK": {
             "description": "if your server is need web service! value = True else value = False",
-            "value": "False"
+            "value": "false"
         },
         "FORCE_SUB": {
             "description": "Your force sub channel user name without [@] ",
-            "value": "dkanime47",
+            "value": "",
             "required": false 
         },
         "BOT_TOKEN": {
             "description": "Your Bot Token From @BotFather",
-            "value": "6237477041:AAGXPB-xXPB7TrzFPFLR2LoyLrtPgr3n5QE"
+            "value": ""
         },
         "ADMIN": {
             "description":"Add Your User ID multiple is use space to split"
@@ -35,16 +35,16 @@
         },
         "DB_URL": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
-            "value": "mongodb+srv://devenshkumar0753:Devenshk03@cluster0.kw2mbxf.mongodb.net/?retryWrites=true&w=majority"
+            "value": ""
         },
         "DB_NAME":{ 
             "description":"Your Mongo DB Database Name ",
-            "value": "cluster0",
+            "value": "",
             "required": false
         },
         "START_PIC": {
             "description": "Your Bot start cmd Pic from @MT_TelegraPH_Bot",
-            "value": "https://telegra.ph/file/f7cf28ec87957eca39d97.jpg",
+            "value": "",
             "required": false
         }
     },
